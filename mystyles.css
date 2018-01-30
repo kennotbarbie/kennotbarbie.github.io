@@ -7,3 +7,9 @@ h1 {
   color: blue;
   font-size: 16px;
 }
+
+div {
+  color: orange;
+  text-align: center;
+  font-style: bold;
+}
